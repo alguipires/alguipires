@@ -42,8 +42,8 @@
 <div style="display: inline_block" align="center"><br>
   <h2> 📊 Statistics: </h2>
   <a href="https://github.com/alguipires">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=alguipires&layout=compact&langs_count=16&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alguipires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguipires&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alguipires&theme=dracula"/>
   </a>
  </div>
 </div>
